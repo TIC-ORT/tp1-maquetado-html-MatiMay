@@ -12,7 +12,7 @@
   
   /* Header */
   header {
-    background-color: #FFD37F;
+    background-color: #fed67f;
     padding: 20px;
   }
   
@@ -24,7 +24,7 @@
   .logo {
     width: 100px;
     height: 100px;
-    background-color: #FFC15E;
+    background-color: #ffc86d;
     margin-right: 20px;
   }
   
@@ -45,42 +45,21 @@
   }
   
   .caja1 {
-    background-color: #FF9E80;
+    background-color: #c4edf1;
     height: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
   }
   .caja2 {
-    background-color: #FF9E80;
+    background-color: #ff9978;
     height: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
   }
   .caja3 {
-    background-color: #FF9E80;
-    height: 150px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .caja4 {
-    background-color: #FF9E80;
-    height: 150px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .caja5 {
-    background-color: #FF9E80;
-    height: 150px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .caja6 {
-    background-color: #FF9E80;
+    background-color: #fed67f;
     height: 150px;
     display: flex;
     justify-content: center;
@@ -98,38 +77,22 @@
   }
 
   .titul p {
-    background-color: slategrey;
-    padding: 10px;
-    display: inline-block;
+    background-color: #cccbc9;
+    padding: 5px;
     box-sizing: content-box;
     width: fit-content;
-    margin: 0 auto;
   }
 
   footer {
-    background-color: #E0E0E0;
-    padding: 20px;
+    background-color: #e5e5e5;
+    padding: 5px;
     text-align: center;
   }
 
-  .foot1 p {
+  .foot p {
     margin: 10px 0;
     height: 15px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .foot2 p {
-    margin: 10px 0;
-    height: 15px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .foot3 p {
-    margin: 10px 0;
-    height: 15px;
-    display: flex;
+    display: ruby;
     justify-content: center;
     align-items: center;
   }
