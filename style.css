@@ -13,7 +13,7 @@
   /* Header */
   header {
     background-color: #fed67f;
-    padding: 20px;
+    padding: 30px;
   }
   
   .header-content {
@@ -25,7 +25,7 @@
     width: 100px;
     height: 100px;
     background-color: #ffc86d;
-    margin-right: 20px;
+    margin-right: 20%;
   }
   
   .text-block h1 {
@@ -48,8 +48,21 @@
     background-color: #c4edf1;
     height: 150px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: start;
+  }
+
+  .cajHead1{
+    background-color: #abe0e4;
+    height: 15%;
+    width: 100%;
+  }
+
+  .cajCenter1{
+    background-color: #abe0e4;
+    height: 65%;
+    width: 65%;
   }
   .caja2 {
     background-color: #ff9978;
