@@ -35,6 +35,9 @@
   .text-block p {
     color: #fff;
   }
+  .title-holder{
+    background-color: #f5835f;
+  }
   
   /* Main Grid */
   .grid {
@@ -43,41 +46,55 @@
     gap: 20px;
     padding: 20px;
   }
-  
-  .caja1 {
-    background-color: #c4edf1;
+  .caja{
     height: 150px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: start;
   }
-
-  .cajHead1{
-    background-color: #abe0e4;
+  .c1 {
+    background-color: #c4edf1;
+  }
+  .c2 {
+    background-color: #ff9978;
+  }
+  .c3 {
+    background-color: #fed67f;
+  }
+  
+  .cajaHead{
     height: 15%;
     width: 100%;
   }
-
-  .cajCenter1{
+  .head1{
     background-color: #abe0e4;
-    height: 65%;
+  }
+  .head2{
+    background-color: #f5835f;
+  }
+  .head3{
+    background-color: #ffc86d;
+  }
+
+  .cajCenter{
+    height: 60%;
     width: 65%;
+    margin: auto;
   }
-  .caja2 {
-    background-color: #ff9978;
-    height: 150px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  .caj1{
+    background-color: #abe0e4;
+    border: 2px solid #abe0e4;
   }
-  .caja3 {
-    background-color: #fed67f;
-    height: 150px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  .caj2{
+    background-color: #f5835f;
+    border: 2px solid #f5835f;
   }
+  .caj3{
+    background-color: #ffc86d;
+    border: 2px solid #ffc86d;
+  }
+
   
   /* Footer */
   .grid2 {
