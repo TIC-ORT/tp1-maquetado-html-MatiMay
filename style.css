@@ -13,7 +13,7 @@
   /* Header */
   header {
     background-color: #fed67f;
-    padding: 30px;
+    padding: 35px;
   }
   
   .header-content {
@@ -22,21 +22,26 @@
   }
   
   .logo {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background-color: #ffc86d;
-    margin-right: 20%;
+    margin-left: -10px;
+    margin-right: 10%;
   }
   
   .text-block h1 {
+    margin-top: -100%;
     margin-bottom: 10px;
   }
   
   .text-block p {
     color: #fff;
+    margin-left: 5px;
   }
   .title-holder{
-    background-color: #f5835f;
+    background-color: #ffc86d;
+    text-align: center;
+    width: 110%;
   }
   
   /* Main Grid */
